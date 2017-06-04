@@ -1,0 +1,18 @@
+First Meeting Notes
+
+Rajika
+	-Find out more about structural design
+	-Find out materials and components
+		- propulsion
+		- structural material
+		- water sealants 
+	-Compute estimated budget
+Mark
+	-Find out how we will integrate garbage collection mechanism (trash grabbing arm)
+		- How it's gonna be deployed
+		- Components we need (motors, springs?, gears?, belts?)
+
+Feras	
+	-Find out how we will integrate openCV 
+		- through arduino? through the pi?
+		- get openCV up and running with a small demo
