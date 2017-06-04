@@ -2,10 +2,12 @@ First Meeting Notes
 
 Rajika
 	-Find out more about structural design
+		- 3D Sketches
 	-Find out materials and components
 		- propulsion
 		- structural material
 		- water sealants 
+		- Gyroscope integration
 	-Compute estimated budget
 Mark
 	-Find out how we will integrate garbage collection mechanism (trash grabbing arm)
