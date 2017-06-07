@@ -1,3 +1,4 @@
+
 First Meeting Notes
 
 Rajika
@@ -19,5 +20,4 @@ Feras
 
 
 General Questions
-	1. Placement of motors
-	
+	1. Placement of motors	
